@@ -1,3 +1,5 @@
+// LightOJ 1231 - Coin Change (I).cpp
+
 /// Template by Zayed ///
 
 ///#include <bits/stdc++.h>
